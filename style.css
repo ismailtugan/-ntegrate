@@ -27,3 +27,12 @@ footer{
      height: 500px;
 
  }
+ 
+ article {
+     background-color:#FAEA37 ;
+     font-size: 1.5rem;
+     border : 1px solid darkblue ;
+     margin-top: 2px;
+     
+
+ }
