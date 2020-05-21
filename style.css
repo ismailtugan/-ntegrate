@@ -1,0 +1,22 @@
+header {
+    background-color:#FADCAF ;
+    text-align: center;
+    font-weight: bold;
+    font-size: 2rem;
+    border: 5px solid black;
+
+  
+   
+
+}
+
+footer{
+    background-color:#AD9493 ;
+    text-align: left;
+    border: 1px dashes pink;
+    height: 50px;
+    margin-top: 400px;
+    font-size: 1.6rem;
+
+
+}
