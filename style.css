@@ -13,10 +13,17 @@ header {
 footer{
     background-color:#AD9493 ;
     text-align: left;
-    border: 1px dashes pink;
+    border: 5px dashed pink;
     height: 50px;
-    margin-top: 400px;
+    margin-top: 10px;
     font-size: 1.6rem;
 
 
 }
+ section {
+     background-color: #8BADA9;
+     text-align: left;
+     font-size: 1.9rem;
+     height: 500px;
+
+ }
